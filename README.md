@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aravindhan-22/LLM-model-for-hospital/blob/main/notebooks/hospital_llm_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aravindhan-22/hospital-readmission-ml-model/blob/main/notebooks/hospital_readmission_model.ipynb)
 # Hospital Readmission Prediction Model
 
 This project predicts whether a hospital patient will be readmitted using a Machine Learning model.
